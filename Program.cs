@@ -1,6 +1,4 @@
-
 //Audry Carolina Giraldo Trujillo
-
 using System;
 using System.IO;
 using System.Linq;
